@@ -1,4 +1,4 @@
-Rails 3.1 asset-pipeline gem to provide underscore.js
+Rails 4 asset-pipeline gem to provide bootstrap-gtreetable.js
 
 # Setup
 
@@ -13,6 +13,7 @@ And, have in your application.js manifest:
 (also directly available under `/assets/bootstrap-gtreetable.js`)
 
 And, add in your application.css
- *= require bootstrap-gtreetable
+
+  *= require bootstrap-gtreetable
 
 Easy as pie.
