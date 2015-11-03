@@ -4,7 +4,7 @@ require "bootstrap-gtreetable-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "bootstrap-gtreetable-rails"
-  s.version     = Underscore::Rails::VERSION
+  s.version     = Gtreetable::Rails::VERSION
   s.authors     = ["Konstantin T"]
   s.email       = ["mrootooz@gmail.com"]
   s.homepage    = "https://github.com/rootooz/bootstrap-gtreetable-rails"
