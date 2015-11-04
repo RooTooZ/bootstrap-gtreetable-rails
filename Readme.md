@@ -1,5 +1,7 @@
 Rails 4 asset-pipeline gem to provide bootstrap-gtreetable.js
 
+[![Gem Version](https://badge.fury.io/rb/bootstrap-gtreetable-rails.svg)](https://badge.fury.io/rb/bootstrap-gtreetable-rails)
+
 # Setup
 
 Have in your Gemfile:
